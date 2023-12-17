@@ -1,9 +1,7 @@
 // If you're gonna play around with this, do it in the dev console on
 // adventofcode's website, otherwise you'll be sent (rightfully) to Error Hell
 
-// OBJECTIVE: Each line of text from the input contains *some* qty of numbers.
-// Get the first and last number for every row of text to create a 2 digit number.
-// OUTPUT: The TOTAL of every two digit number from every row of text.
+// OBJECTIVE: https://adventofcode.com/2023/day/2
 
 // Get the inputs from the day's problem
 var aocInput = await fetch("https://adventofcode.com/2023/day/2/input");
